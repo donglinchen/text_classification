@@ -11,12 +11,12 @@ Build text classifiers using 3 most popular machine learning or deep learning li
 
 ### Installation <a name="installation"></a>
 You can download anaconda individual edition from https://www.anaconda.com/products/individual, which contains all the useful libraries used by data scientists. 
-Another option is to intall the following package use pip package manager. 
-python                    3.8.3
-tensorflow                2.2.0 
-torch                     1.5.1 
-jupyterlab                2.1.4 
-pandas                    1.0.4
+Another option is to intall the following packages individually use pip package manager. 
+- python                    3.8.3
+- tensorflow                2.2.0 
+- torch                     1.5.1 
+- jupyterlab                2.1.4 
+- pandas                    1.0.4
 
 ### Project Motivation<a name="motivation"></a>
 Text classification has been widely used in real world business processes like email spam detection, support ticket classification, or content recommendation based on text topics.
